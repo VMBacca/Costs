@@ -1,6 +1,6 @@
 # Costs
 
-Projeto criado como exercício de aprendizado utilizando 
+Projeto criado como exercício de aprendizado de cursos online utilizando 
 
 *CSS3;
 *VSCode;
